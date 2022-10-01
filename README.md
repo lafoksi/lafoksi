@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=lafoksi)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @lafoksi
 - 👀 I’m interested in creative solutions
 - 🌱 I’m currently learning new technologies
