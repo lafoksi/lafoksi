@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lafoksi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
