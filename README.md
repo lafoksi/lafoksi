@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @lafoksi
 - 👀 I’m interested in creative solutions
-- 🌱 I’m currently learning new technologies
 - 📫 How to reach me laurantkqiku97@gmail.com
 
 
