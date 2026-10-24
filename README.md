@@ -35,13 +35,10 @@ laurantkqiku97@gmail.com
 
 <!-- lafoksi/lafoksi is a special repository: this README shows on my GitHub profile. -->
 
-[
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lafoksi&theme=dark&hide_border=true)
 
-](https://git.io/streak-stats)
-[
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lafoksi&theme=dark&hide_border=true&show_icons=true&count_private=true)
 
-](https://github.com/lafoksi)
+
