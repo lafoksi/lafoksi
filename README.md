@@ -27,7 +27,10 @@ status: under construction
 
 ### stack
 
-`python` `typescript` `react` `mongodb` `postgresql` `rabbitmq` `gcp` `docker`
+
+
+![Stack](https://skillicons.dev/icons?i=python,rust,ts,js,react,nodejs,fastapi,mongodb,postgres,supabase,redis,rabbitmq,gcp,docker,kubernetes,nginx,linux,git,github,pytorch&perline=20)
+
 
 ### reach
 
