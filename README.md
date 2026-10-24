@@ -1,14 +1,47 @@
+```console
+$ whoami
+laurant kqiku · lafoks · stuttgart
+```
 
-- 👋 Hi, I’m @lafoksi
-- 👀 I’m interested in creative solutions
-- 📫 How to reach me laurantkqiku97@gmail.com
+### manifest
 
+```yaml
+role: software engineer
+training: self-taught, all of it
+works_on:
+  - backend, APIs, and the data layer underneath them
+  - large migrations, polyglot persistence, no downtime
+  - realtime and event-driven systems, including the failure cases
+  - security: trust boundaries, tenant isolation, threat models
+  - LLM features with validated typed output, never free text
+  - robotics: kinematics, motion, simulation
+  - frontend, when the interface decides whether anyone uses it
 
+believes:
+  - the boring invariant beats the clever shortcut
+  - if it only works when you are in the room, it does not work
+  - a system you cannot explain to a new joiner is unfinished
 
+status: under construction
+```
 
-<!---
-lafoksi/lafoksi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### stack
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lafoksi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+`python` `typescript` `react` `mongodb` `postgresql` `rabbitmq` `gcp` `docker`
+
+### reach
+
+laurantkqiku97@gmail.com
+
+<!-- lafoksi/lafoksi is a special repository: this README shows on my GitHub profile. -->
+
+[
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lafoksi&theme=dark&hide_border=true)
+
+](https://git.io/streak-stats)
+[
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lafoksi&theme=dark&hide_border=true&show_icons=true&count_private=true)
+
+](https://github.com/lafoksi)
